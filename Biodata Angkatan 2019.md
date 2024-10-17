@@ -20,7 +20,7 @@
    Alamat : Jln. Malik Rt.23 No.05
 
 4. Nama   : Eka Sulis
-   NIM    : D250101072
+   NIM    : D250101073
    JK     : Perempuan
    Agama  : Islam
    TTL    : Mojokerto, 08 Juli 2003
